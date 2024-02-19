@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_layout_add_movie_id"
+        android:title="Add Movie"
+        />
+    <item
+        android:id="@+id/drawer_layout_remove_last_movie_id"
+        android:title="Remove Last Movie"
+        />
+    <item
+        android:id="@+id/drawer_layout_remove_all_movies_id"
+        android:title="Remove All Movies"
+        />
+    <item
+        android:id="@+id/drawer_layout_list_all_movies_id"
+        android:title="List All Movies"
+        />
+    <item
+        android:id="@+id/drawer_layout_delete_old_movies"
+        android:title="Delete Old Movies"
+        />
+    <item
+        android:id="@+id/drawer_layout_delete_costly_movies"
+        android:title="Delete Costly Movies"
+        />
+</menu>
