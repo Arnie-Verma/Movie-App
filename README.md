@@ -1,3 +1,4 @@
+Lab1Q2/app/src/main/java/com/example/lab1q2 for the main files concerning the project.
 # Movie Library Application
 
 ## Project Overview
